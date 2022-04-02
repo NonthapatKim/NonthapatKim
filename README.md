@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hello, I'm Nonthapat Kimram!
+Bachelor of Arts Social Communication Innovation, Computer Innovation for Communication
+Srinakharinwirot University
+
 <!--
 **NonthapatKim/NonthapatKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

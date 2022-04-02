@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Hello, I'm Nonthapat Kimram!
 Bachelor of Arts Social Communication Innovation, Computer Innovation for Communication (undergraduate)
 Srinakharinwirot University

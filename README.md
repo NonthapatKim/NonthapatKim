@@ -1,4 +1,4 @@
-Hello, I'm Nonthapat Kimram!
+Hello, I'm Nonthapat Kimram! <br>
 Bachelor of Arts Social Communication Innovation, Computer Innovation for Communication (undergraduate)
 Srinakharinwirot University
 

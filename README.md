@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nonthapat Kimram</h1>
-<h3 align="center">Now I studying at Srinakharinwirot University</h3>
+<h1>Hi 👋, I'm Nonthapat Kimram</h1>
+<h3>Now I studying at Srinakharinwirot University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nonthapatkim&label=Profile%20views&color=0e75b6&style=flat" alt="nonthapatkim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nonthapatkim" alt="nonthapatkim" /></a> </p>
 

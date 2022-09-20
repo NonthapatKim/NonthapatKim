@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [(developing)]((developing))
 
-- ⚡ Fun fact **I spoke to P'Ink Waruntorn on August 31, 2022. hahahaha**
+- ⚡ Fun fact **I spoke to P'Ink Waruntorn on August 31, 2022 hahahaha 🫶🏻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -6,21 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🔭 I’m currently working on **-**
-
 - 🌱 I’m currently learning **Swift, Python, Nextjs, Typescript**
-
-- 👯 I’m looking to collaborate on **-**
-
-- 🤝 I’m looking for help with **-**
-
-- 👨‍💻 All of my projects are available at [(developing)]((developing))
-
-- 📝 I regularly write articles on [(developing)]((developing))
-
-- 📫 How to reach me **nontapat.kim66@gmail.com**
-
-- 📄 Know about my experiences [(developing)]((developing))
 
 - ⚡ Fun fact **I spoke to P'Ink Waruntorn on August 31, 2022 hahahaha 🫶🏻**
 

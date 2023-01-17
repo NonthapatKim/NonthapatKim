@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🌱 I’m currently learning **Swift, Python, Nextjs, Typescript**
+<!-- - 🌱 I’m currently learning **Swift, Python, Nextjs, Typescript**
 
 - ⚡ Fun fact **I spoke to P'Ink Waruntorn on August 31, 2022 hahahaha 🫶🏻**
 
@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonthapatkim&show_icons=true&locale=en" alt="nonthapatkim" /></p>
 
 
+ -->

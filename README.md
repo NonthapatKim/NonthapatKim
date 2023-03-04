@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Nonthapat Kimram</h1>
-<h3>Now I studying at Srinakharinwirot University</h3>
+<h3>My brain is crazy 🫠</h3>
 
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nonthapatkim" alt="nonthapatkim" /></a> </p>
